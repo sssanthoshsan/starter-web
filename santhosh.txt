@@ -1,2 +1,3 @@
 First line from remote repo
 2nd line from remote repo
+3rd line from local repo
